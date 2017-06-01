@@ -1,3 +1,8 @@
+# Firebase
+firebase.json
+database.rules.json
+.firebaserc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
